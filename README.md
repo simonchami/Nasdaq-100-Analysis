@@ -6,3 +6,6 @@ The project begins by calculating the Sharpe ratio for each constituent over the
 The project then focuses on the best-performing stocks in the index, comparing them to the overall index to gain insights into what factors may have contributed to their outperformance.
 
 Through this analysis, we aim to gain a deeper understanding of the NASDAQ100 Index and its constituents, and to provide insights that can help inform investment decisions.
+
+For a full visualization of the notebook, please go to:
+https://nbviewer.org/github/simonchami/Nasdaq-100-Analysis/blob/main/Nasdaq%20100.ipynb
